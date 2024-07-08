@@ -5,7 +5,7 @@
     /* --text-color: rgba(255, 255, 255, 0.75); */
     --text-color: rgba(255, 255, 255, 0.69);
     /* --bg-color: rgb(26, 26, 26); */
-    --bg-color: rgb(41, 40, 40);
+    --bg-color: #282828;
     --control-text-color: var(--text-color);
     --meta-content-color: var(--text-color);
     --active-file-border-color: var(--drake-accent);
